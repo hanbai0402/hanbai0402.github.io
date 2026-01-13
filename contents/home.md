@@ -16,16 +16,6 @@ Email: hbwang0402@163.com
 #### 研究方向（Research Interests）
 人工智能（AI）；数据科学（Data Science）；大语言模型（LLM）与语义建模；科技创新评价分析
 
-#### 研究与项目经历（Selected Research）
-- **国家自然科学基金项目**  
-  *主体异质性视角下科技项目资助绩效评估与创新引领策略研究*  
-  - 发表 SSCI Q1 论文：  
-    *From Location Advantage to Innovation: Exploring Interprovincial Co-Funding Networks in Mainland China*（Systems）
-- **国家自然科学基金青年项目**  
-  *颠覆性低碳技术识别及创新路径动态选择研究*  
-  - 在投 SSCI Q1 论文：  
-    *Tracking Interdisciplinary Knowledge Evolution with LLM-Augmented Semantic BERTopic*（Scientometrics）
-
 #### 技能（Skills）
 - 编程与数据分析：Python, R, MATLAB, Java, Excel  
 - 自然语言处理与文本挖掘  
