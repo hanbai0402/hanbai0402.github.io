@@ -1,12 +1,12 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 首届全国人工智能应用创新大赛-全国特等奖-智能驱动的科技初创企业早期投资评估系统
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 第四十三届国际企业管理挑战赛（GMC）-中国赛区-二等奖
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 第十五届全国大学生市场调查与分析大赛-国家三等奖-银龄新动能：北京市48-58岁人群旅游市场需求偏好与消费洞察
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 第十届全国大学生统计建模大赛-北京赛区-二等奖-数字新质生产力赋能制造业智能化转型测度与路径研究
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 北京工业大学-校级创新创业奖
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 北京工业大学-校级学习优秀奖
